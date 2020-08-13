@@ -4,6 +4,6 @@ PyYAML==3.10
 git+git://github.com/ansible/ansible@devel#egg=ansible
 argparse==1.2.1
 boto==2.8.0
-paramiko==1.10.1
+paramiko==2.0.9
 pycrypto==2.6
 wsgiref==0.1.2

@@ -14,7 +14,7 @@ ipython==0.13.1
 jenkinsapi==0.1.11
 lxml==3.1beta1
 newrelic==1.10.2.38
-paramiko==1.9.0
+paramiko==2.0.9
 path.py==3.0.1
 pingdom==0.2.0
 pycrypto==2.6
